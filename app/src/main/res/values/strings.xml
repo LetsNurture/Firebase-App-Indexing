@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AppIndexingTest</string>
+    <string name="firebase_app_indexing">Firebase App Indexing</string>
+    <string name="firebase_app_indexing_text">Firebase App Indexing, formerly Google App Indexing, gets your app into Google Search.</string>
+    <string name="click_me">Send App invitation</string>
+    <string name="invitation_message">Accept my invitation</string>
+    <string name="invitation_deep_link">https://c7dvm.app.goo.gl/eNh4</string>
+    <string name="invitation_custom_image" >
+        http://i2.wp.com/engineering.letsnurture.com/wp-content/uploads/2016/04/engineering_blog_android.png
+    </string>
+    <string name="invitation_cta">App Invite</string>
+    <string name="app_invitation">App invitation</string>
+    <string name="send_invitation">Send Invitation</string>
+    <string name="str_app_index_instruction"><![CDATA[Close this app and try to search \"<b>LetsNurture engineering blog</b>\" in your google app or browser]]></string>
+    <string name="str_steps">Follow below step to check App Indexing (select text from TextView)</string>
+</resources>
